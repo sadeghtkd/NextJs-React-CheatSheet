@@ -1,4 +1,15 @@
 # Next.js 15 & React Cheat Sheet
+The cheat sheet includes:
+
+Component Rendering: Function components, conditional rendering, list rendering, fragments, and client vs server components in Next.js 15
+
+useEffect and Other Hooks: Detailed examples of useState, useEffect (with different dependency patterns), useRef, useMemo, useCallback, useReducer, and useId
+
+Routing in Next.js 15: App router structure, basic routing, navigation (both Link and programmatic), dynamic routes, layouts, loading states, error handling, and route handlers
+
+Context: Creating context, using Context.Consumer, and using the useContext hook
+
+Provider: Basic setup, providers with state, combining multiple contexts, custom hooks for context, and the context-reducer pattern
 
 ## Component Rendering
 
